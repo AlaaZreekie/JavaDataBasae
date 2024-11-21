@@ -15,7 +15,6 @@ public class Main {
         //db.delete_row_by_id(conn,"employee",4);
         //db.read_data(conn,"employee");
         // db.delete_table(conn,"employee");
-	// write your code here
     }
 
 }
